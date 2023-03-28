@@ -3,7 +3,7 @@
 Create secure passwords that are impossible to crack.
 
 ## 📚 Libraly used
-+ from random import random
+
 + [random](https://docs.python.org/3/library/random.html)
 + [python](https://www.python.org/downloads)
 
