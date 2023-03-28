@@ -5,6 +5,7 @@ Create secure passwords that are impossible to crack.
 ## 📚 Libraly used
 
 `import random`
++ [python](https://www.python.org/downloads)
 
 ## 🌟 How to run the script
 
