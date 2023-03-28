@@ -3,8 +3,8 @@
 Create secure passwords that are impossible to crack.
 
 ## 📚 Libraly used
-
-`import random`
++ from random import random
++ [random}(https://docs.python.org/3/library/random.html)
 + [python](https://www.python.org/downloads)
 
 ## 🌟 How to run the script
